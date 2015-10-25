@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+alert("Don't talk about it");
+window.location = "http://www.google.com";
+
